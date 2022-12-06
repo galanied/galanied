@@ -6,7 +6,7 @@ Full Time AWS ISV Sales (alias @galanied) and part time cloud tech tinkerer 🚀
 https://github.com/vedderb/bldc 
 https://www.makerspev.com/products/little-focer-bring-your-own-heat-sink.
 
-- 📫 How to reach me david.galanie@gmail.com
+- 📫 How to reach me dgalanie@gmail.com
 
 
 <!---
